@@ -2,16 +2,10 @@ package org.gitsample;
 
 public class Calculator {
 	
-//Test Comment t
-	
-	// To test the Merge concepts
-
-	
-	// New Comment to test Three way Merge in Master Branch
-
+// Rebase testing added Comment
 	
 	
-	// New Change to Feature branch to test the Merge 3 way concept
+	// New comment - comment 2 for testing Rebase
 
 
 	public static int add(int num1, int num2) {

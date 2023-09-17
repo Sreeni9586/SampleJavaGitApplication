@@ -6,4 +6,7 @@ public class Department {
 	private String code;
 	private String code2;
 	//Sample Commit from Local Eclipse
+
+	//Comment added from Github repository
+
 }
