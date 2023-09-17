@@ -3,6 +3,9 @@ package org.gitsample;
 public class Calculator {
 	
 // Rebase testing added Comment
+	
+	
+	// New comment - comment 2 for testing Rebase
 
 
 	public static int add(int num1, int num2) {
