@@ -8,5 +8,7 @@ public class Department {
 	//Sample Commit from Local Eclipse
 
 	//Comment added from Github repository
-
+	//Comment added from Github repository
+	 private String Amount;
+	 private String ItemCount;
 }
