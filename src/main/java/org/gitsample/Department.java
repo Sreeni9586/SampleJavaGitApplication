@@ -11,7 +11,6 @@ public class Department {
 	private double Amount;
 	private int ItemCount;
 	//Comment added from Github repositories
-	 private String Amount1;
-	 private String ItemCount1;
+	 private String Amount;
+	 private String ItemCount;
 }
- 
