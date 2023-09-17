@@ -5,5 +5,5 @@ public class Department {
 	private String name;
 	private String code;
 	private String code2;
-	//Master Branch commit2 for Rebase
+	//Comment added from Github repository
 }
