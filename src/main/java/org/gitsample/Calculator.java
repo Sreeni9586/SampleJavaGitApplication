@@ -5,8 +5,14 @@ public class Calculator {
 //Test Comment t
 	
 	// To test the Merge concepts
+
 	
 	// New Comment to test Three way Merge in Master Branch
+
+	
+	
+	// New Change to Feature branch to test the Merge 3 way concept
+
 
 	public static int add(int num1, int num2) {
 		int sum = num1 + num2;
